@@ -1,1 +1,1 @@
-# Netflix-clone
+Creating a Netflix clone using HTML and CSS is a great project to practice your web development skills. I can give you a high-level description of the structure and elements you would need to include to build a basic version of it, and a real-world Netflix clone would require more advanced features and functionality.# Netflix-clone
